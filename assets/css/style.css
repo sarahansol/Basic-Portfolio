@@ -1,0 +1,76 @@
+/**
+ * Float Stylesheet
+ **/
+
+header {
+    color: white;
+    background-color: white;
+    clear: right;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: #cccccc;
+
+}
+
+
+div.container {
+	max-width:60%;
+	background-color: white;
+	border: 1px #dddddd;
+	margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-image: url("cork-wallet.png");
+}
+
+h1 {
+	font-family: 'Georgia';
+	padding: 1em;
+	background-color: #4aaaa5;
+    color: white
+}
+
+
+nav {
+	font-family: 'Georgia';
+	background-color:white;
+	color:#4aaaa5;
+	float: right;
+	max-width:300px;
+	margin: 0;
+	padding: 1em;
+	border: 1px solid gray;
+}
+
+h2 {
+	text-align: center;
+}
+
+section {
+	background-color:white;
+	color:#4aaaa5;
+	float:left;
+	margin-right: 370px;
+    border-right: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+	padding: 1em;
+	border: 1px solid gray;
+	font-family: 'Georgia';
+	}
+
+
+
+
+
+ footer {
+    padding: 1em;
+    color: white;
+    background-color: #666666;
+    clear: both;
+    text-align: center;
+}
